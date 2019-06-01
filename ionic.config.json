@@ -1,0 +1,7 @@
+{
+  "name": "marketApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
